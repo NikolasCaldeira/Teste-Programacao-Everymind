@@ -1,7 +1,7 @@
 # Teste-Programacao-Everymind
 ### Este projeto foi elaborado por Nikolas Caldeira
 
-Para acessar o enunciado do desafio de programação da Academia CAPGEMINI acesse o link: https://github.com/NikolasCaldeira/Teste-Programacao-Everymind/blob/main/Best%20Minds%202021_Teste%20Pr%C3%A1tico%20para%20Desenvolvedor.pdf
+Para acessar o enunciado do desafio de programação da Everymind acesse o link: https://github.com/NikolasCaldeira/Teste-Programacao-Everymind/blob/main/Best%20Minds%202021_Teste%20Pr%C3%A1tico%20para%20Desenvolvedor.pdf
 ---
 
 ## ATENÇÃO - PARA A ELABORAÇÃO DO PROJETO FOI UTILIZADO A LINGUAGEM DE PROGRAMAÇÃO JAVA!
