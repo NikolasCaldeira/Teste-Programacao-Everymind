@@ -6,7 +6,7 @@ Para acessar o enunciado do desafio de programação da Everymind acesse o link:
 
 ## ATENÇÃO - PARA A ELABORAÇÃO DO PROJETO FOI UTILIZADO A LINGUAGEM DE PROGRAMAÇÃO JAVA!
 ### PARA PODER RODAR O PROJETO SERÁ NECESSÁRIO TER INSTALADO EM SUA MÁQUINA:
-### JKD https://www.oracle.com/java/technologies/downloads/ 
+### JDK https://www.oracle.com/java/technologies/downloads/ 
 ### OU
 ### JRE https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 
